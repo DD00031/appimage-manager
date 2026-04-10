@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Configuration
-SCRIPT_URL="https://github.com/rvdk/appimage-manager/raw/refs/heads/main/appimage.sh"
+SCRIPT_URL="https://raw.githubusercontent.com/DD00031/appimage-manager/main/appimage.sh"
 INSTALL_DIR="$HOME/.local/bin"
 SCRIPT_NAME="appimage"
 
