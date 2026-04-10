@@ -7,7 +7,7 @@ A full-featured Bash utility for installing, managing, and removing AppImages on
 Install with a single command. This will download the script to `~/.local/bin` and make it globally available as `appimage`.
 
 ```bash
-bash <(curl -sSL https://github.com/DD00031/appimage-manager/raw/refs/heads/main/install.sh)
+bash <(curl -sSL https://raw.githubusercontent.com/DD00031/appimage-manager/refs/heads/main/install.sh)
 ```
 
 **Usage:** Once installed, simply open your terminal and type:
